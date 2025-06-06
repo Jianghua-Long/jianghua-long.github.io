@@ -1,0 +1,20 @@
+title: "Jianghua-Long's Blog"
+email: "your-email@example.com"
+description: >- 
+  这里是我的个人博客，记录项目、技术分享与成长历程。
+baseurl: ""
+url: "https://jianghua-long.github.io"
+theme: minima
+
+# 分类和标签
+collections:
+  posts:
+    output: true
+
+# 导航栏
+header_pages:
+  - projects.md
+  - about.md
+
+# 社交
+github_username: Jianghua-Long
